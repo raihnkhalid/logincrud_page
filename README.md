@@ -4,7 +4,7 @@ School assignment: create a login page using PHP and Mysql, Also have a simple C
 # Install 
 1. Download zip and extract
 2. Create a database named : `logincrudpage_`
-3. Import database from extracted zip
+3. Import database `logincrudpage_.sql` from extracted zip
 5. Set your Username and Password database on `config.php`
 4. Done
 
